@@ -1,0 +1,40 @@
+
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            margin-top: 500px;
+            background-image: url('bgg.avif');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+
+            position: relative;
+        }
+
+        #time {
+            gap: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 200px;
+            background-color: black;
+            color: white;
+            width: 400px;
+            margin-left: 500px;
+            font-size: 3rem;
+            font-weight: bolder;
+            border-radius: 50px;
+            margin-top: -350px;
+            position: absolute;
+
+        }
+
+        #times{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    
